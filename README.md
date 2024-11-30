@@ -10,6 +10,8 @@ machine learning libraries . like:
 * sklearn
 * matplot
 * pandas
+
+
 while also trying to see how the game i watch from the TV translates to statistics and Data. which a machine can learn from.
 The most important objective was to get an introduction to machine learning. with this being my first introduction with machine
 learning and my first model.
