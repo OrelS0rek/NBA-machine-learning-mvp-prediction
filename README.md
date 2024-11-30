@@ -43,6 +43,8 @@ i used the 'scikit-learn' library to split the data, and create the models. i us
 * Decision Tree Regression
 * Linear Regression
 * K Nearest Neighbours
+
+
 i have used some optimization techniques like Hyper Parameters tuning with Grid Search, Cross-Validation to
 make sure the model is not underfitted/overfitted.
 and some metrics to value the model like R-Squared and Mean-Squared-Error.
