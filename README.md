@@ -30,9 +30,9 @@ i scraped all of the data from the website BasketBall-Reference, the full Datase
 i used some features from the *pandas* library like '.describe()' or 'groupby' to analyze and explore the data.
 i also used matplotlib to create some plots to learn about the data and visualize it and make some correlations 
 between the features.
-![image](https://github.com/user-attachments/assets/e804db4f-fca9-4927-a4f7-1b7bba51b9a5)
-![image](https://github.com/user-attachments/assets/e5f50ea7-e243-4dcc-bd5d-e8d81bd1e947)
-![image](https://github.com/user-attachments/assets/6e1678a2-8cad-4d0d-a9ac-f14e645c8082)
+![image](https://github.com/user-attachments/assets/2a609bce-ceee-472b-be7a-c81355a90e7d)
+![image](https://github.com/user-attachments/assets/c0e76c2d-6e7d-4c9c-a9cd-f1f214c5e5b3)
+![image](https://github.com/user-attachments/assets/ae60aa2f-be72-47eb-a26f-34a9953814ef)
 
 **model training and learning**
 
@@ -58,24 +58,24 @@ the results are as such:
 
 Support Vector Regression:
 
-![image](https://github.com/user-attachments/assets/f324aaea-36b5-49dc-b6b5-09350c014f75)
+![image](https://github.com/user-attachments/assets/ab321c87-dfdf-4af7-b4b6-610c39b519bb)
 
 Random Forest Regression:
 
-![image](https://github.com/user-attachments/assets/d2ff24cc-bc1d-4cdd-be99-46fda21ad758)
+![image](https://github.com/user-attachments/assets/db2f4a7d-053e-4c3c-9cd3-b4aa658ea20e)
 
 Decision Tree Regression:
 
-![image](https://github.com/user-attachments/assets/ac3d493e-db14-4a5a-ad7a-bb4e3610ba8f)
+![image](https://github.com/user-attachments/assets/d887b3d6-49c5-43ed-aebb-1abaa637cf37)
 
 
 Linear Regression:
 
-![image](https://github.com/user-attachments/assets/e88daf9c-34c1-4dd3-9d91-7e2c7b303641)
+![image](https://github.com/user-attachments/assets/e819514a-4868-4bde-b672-ac1c23388d85)
 
 K-Nearest-Neighbours:
 
-![image](https://github.com/user-attachments/assets/5bdc44b7-b2a4-433f-b101-424d2d8ed98b)
+![image](https://github.com/user-attachments/assets/6fd978bb-2886-4614-b937-66e4261d6468)
 
 The Actual TOP 5 was:
 1. Nikola Jokic
